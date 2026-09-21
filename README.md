@@ -18,7 +18,7 @@ Non-AI Project:
 
 AI-Driven Project:
 
-TBD - The goal of this will be to not build understanding as we go but to simply make a fast feedback loop once a destination is determined, ideally using technologies I have used before combined with ones I haven't.
+An NFC Tag Project for managing household chores
 
 
 
