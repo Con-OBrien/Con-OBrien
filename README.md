@@ -23,3 +23,15 @@ An NFC Tag Project for managing household chores
 
 
 </div>
+
+<div align="center">
+
+## ❤️ Support My Work
+
+If you find my projects useful, consider sponsoring me!
+
+<a href="https://github.com/sponsors/Con-OBrien">
+  <img src="https://img.shields.io/badge/Become%20a%20Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github" alt="Become a Sponsor">
+</a>
+
+</div>
